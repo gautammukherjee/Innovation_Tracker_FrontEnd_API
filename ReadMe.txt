@@ -1,0 +1,1 @@
+This is repository for APIs in Laravel which will be consumed by Frontend code. (Not admin panel)
